@@ -12,7 +12,7 @@
 
 [![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_1.0.0-E0603A?style=for-the-badge&labelColor=12141B)](https://github.com/lerapeurdu62280-debug/Mijote-Download/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#%EF%B8%8F-configuration-requise)
-[![Premium](https://img.shields.io/badge/✦_Premium-15_€_à_vie-D9C7A1?style=for-the-badge&labelColor=12141B)](#-gratuit-ou-premium-)
+[![Premium](https://img.shields.io/badge/✦_Premium-15_€_à_vie-D9C7A1?style=for-the-badge&labelColor=12141B)](https://pay.izettle.com/?6X5PDvPn6)
 [![Discord](https://img.shields.io/badge/Discord-rejoindre_l%E2%80%99atelier-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=12141B)](https://discord.gg/W5hd36CW6b)
 
 <br>
@@ -96,9 +96,11 @@ Tout Mijote s'utilise **gratuitement**, sans limite de temps. La version **Premi
 
 ### Obtenir Premium · 15 €
 
+<p align="center"><a href="https://pay.izettle.com/?6X5PDvPn6"><img src="https://img.shields.io/badge/💳_Payer_15_€-par_carte_(Zettle)-E0603A?style=for-the-badge&labelColor=12141B" alt="Payer 15 € par carte"></a></p>
+
 1. Dans Mijote, cliquez sur **Version gratuite** (en haut à droite), puis sur **Copier** à côté de votre **code machine**.
 2. Envoyez ce code à **S.O.S INFO LUDO** : ✉️ **s.o.sinfoludo@gmail.com** · 📞 **06 59 59 05 15** · 💬 **[Discord](https://discord.gg/W5hd36CW6b)**.
-3. Réglez **15 €** : par **carte bancaire** (lien de paiement sécurisé Zettle envoyé par e-mail), par **virement**, ou en **espèces** à l'atelier de Boulogne-sur-Mer.
+3. Réglez **15 €** : par **carte bancaire** via le **[lien de paiement sécurisé Zettle](https://pay.izettle.com/?6X5PDvPn6)** (indiquez votre code machine ou votre e-mail), par **virement**, ou en **espèces** à l'atelier de Boulogne-sur-Mer.
 4. Vous recevez votre licence par e-mail : collez-la dans la fenêtre **Licence** (ou ouvrez le fichier `.lic`), puis cliquez sur **Activer Premium**.
 
 > La licence est vérifiée **sur votre PC, sans connexion Internet**, et reste valable à vie sur cet ordinateur. Micro-entreprise : TVA non applicable, article 293 B du CGI.
