@@ -10,7 +10,7 @@
 
 <br>
 
-[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_1.0.0-E0603A?style=for-the-badge&labelColor=12141B)](https://github.com/lerapeurdu62280-debug/Mijote-Download/releases/latest)
+[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_1.0.1-E0603A?style=for-the-badge&labelColor=12141B)](https://github.com/lerapeurdu62280-debug/Mijote-Download/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#%EF%B8%8F-configuration-requise)
 [![Premium](https://img.shields.io/badge/✦_Premium-15_€_à_vie-D9C7A1?style=for-the-badge&labelColor=12141B)](https://pay.izettle.com/?6X5PDvPn6)
 [![Discord](https://img.shields.io/badge/Discord-rejoindre_l%E2%80%99atelier-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=12141B)](https://discord.gg/W5hd36CW6b)
